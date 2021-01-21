@@ -7,7 +7,7 @@ landing:
   height: 500
   image: favicon/android-icon-192x192.png
   title:
-    - Z Themes
+    - ''
   text:
     - This is Hugo Z Themes documentation site
   titleColor: null
