@@ -18,9 +18,9 @@ landing:
     - link: docs
       text: HUGO THEME ZDOC
       color: primary
-  # backgroundImage: 
-  #   src: images/landscape.jpg
-  #   height: 600
+     backgroundImage: 
+     src: images/landscape.jpg
+     height: 600
 footer:
   sections:
     - title: General
